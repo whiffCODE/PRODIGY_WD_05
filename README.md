@@ -5,6 +5,7 @@ When the name of the place will be given in the search box, and clicked the sear
 I have given some screenshots to show the application.
 
 Screenshots:
+
 ![1](https://github.com/whiffCODE/PRODIGY_WD_05/assets/160585009/83e29579-3c99-418f-a0f5-91bba0741042)
 ![2](https://github.com/whiffCODE/PRODIGY_WD_05/assets/160585009/042942be-43a2-4a49-a39e-9446c9715cab)
 ![3](https://github.com/whiffCODE/PRODIGY_WD_05/assets/160585009/907d8cba-4032-42b4-8f26-d7b504de73e5)
