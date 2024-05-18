@@ -3,6 +3,7 @@ Made a weather app using HTML to structure the app & CSS for styling.
 Used api suing script within HTML document.
 When the name of the place will be given in the search box, and clicked the search icon, then the api will use the location and time of the place to fetch the weather information.
 I have given some screenshots to show the application.
+
 Screenshots:
 ![1](https://github.com/whiffCODE/PRODIGY_WD_05/assets/160585009/83e29579-3c99-418f-a0f5-91bba0741042)
 ![2](https://github.com/whiffCODE/PRODIGY_WD_05/assets/160585009/042942be-43a2-4a49-a39e-9446c9715cab)
